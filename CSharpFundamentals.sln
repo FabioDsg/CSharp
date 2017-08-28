@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_29", "Lecture_29\Lecture_29.csproj", "{808E7AFB-1F22-47E4-BD3C-8DD703C9E081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_30", "Lecture_30\Lecture_30.csproj", "{70BF4DC5-7C2E-42B6-BDB8-34D3C31A479A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_31", "Lecture_31\Lecture_31.csproj", "{DFC40BCD-6AF3-4664-BA7A-EDA2873C4952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808E7AFB-1F22-47E4-BD3C-8DD703C9E081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808E7AFB-1F22-47E4-BD3C-8DD703C9E081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808E7AFB-1F22-47E4-BD3C-8DD703C9E081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808E7AFB-1F22-47E4-BD3C-8DD703C9E081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BF4DC5-7C2E-42B6-BDB8-34D3C31A479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BF4DC5-7C2E-42B6-BDB8-34D3C31A479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BF4DC5-7C2E-42B6-BDB8-34D3C31A479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BF4DC5-7C2E-42B6-BDB8-34D3C31A479A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC40BCD-6AF3-4664-BA7A-EDA2873C4952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC40BCD-6AF3-4664-BA7A-EDA2873C4952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC40BCD-6AF3-4664-BA7A-EDA2873C4952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC40BCD-6AF3-4664-BA7A-EDA2873C4952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01856CAD-C32D-429B-A6B4-75513C1F7F69}
+	EndGlobalSection
+EndGlobal
