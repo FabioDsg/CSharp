@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57F946D7-B8FB-4646-AA3C-75FB68CE5C2D}</ProjectGuid>
+    <ProjectGuid>{BA1CBCA7-ACD5-4631-99B0-B0068E0B642B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Loop</RootNamespace>
-    <AssemblyName>Loop</AssemblyName>
+    <RootNamespace>RandExample</RootNamespace>
+    <AssemblyName>RandExample</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,11 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EachExample.cs" />
-    <Compile Include="ForExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WhileExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

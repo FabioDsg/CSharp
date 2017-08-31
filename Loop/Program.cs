@@ -13,9 +13,11 @@ namespace Loop
         {
             var ex1 = new ForExample();
             var ex2 = new EachExample();
-
+            var ex3 = new WhileExample();
+            
             //ex1.forExample();
-            //ex2.foreachExample();           
+            //ex2.foreachExample();
+            ex3.whileExample();  
         }
     }
 }
