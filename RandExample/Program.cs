@@ -10,7 +10,7 @@ namespace RandExample
     {
         static void Main(string[] args)
         {
-            var random = new Random();
+           var random = new Random();
 
             const int passwordLength = 10;
 
@@ -21,6 +21,8 @@ namespace RandExample
             var password = new string(buffer);
 
             Console.WriteLine(password);
+                        
         }
+
     }
 }
