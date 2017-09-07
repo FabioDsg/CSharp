@@ -43,7 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AskNumber.cs" />
+    <Compile Include="Comma.cs" />
     <Compile Include="DivByThree.cs" />
+    <Compile Include="Factorial.cs" />
+    <Compile Include="GuessNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
