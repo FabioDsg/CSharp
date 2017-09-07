@@ -11,21 +11,18 @@ namespace CondExercies
         public void askNumber()
         {
 
-
-
-            var resp ="";
-            do
+            var sum = 0;
+            while (true)
             {
-                Console.WriteLine("Enter a int number or ok to exit: ");
-                resp = Console.ReadLine();
+                Console.Write("Enter a number (or 'ok' to exit): ");
+                var input = Console.ReadLine();
 
-                           
-                
+                if (input.ToLower() == "ok")
+                    break;
+
+                sum += Convert.ToInt32(input);
             }
-            while (resp != "ok");
-
-           
-            
+            Console.WriteLine("Sum of all numbers is: " + sum);
 
         }
     }
