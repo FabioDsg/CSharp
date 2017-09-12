@@ -24,6 +24,7 @@ namespace StrBuilder
 
             Console.WriteLine(builder);
             Console.WriteLine("First Char: " + builder[0]);
-        }
+
+           
     }
 }
